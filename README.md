@@ -1,0 +1,2 @@
+# b04548f17a57bade-corporate-training-invoice-and
+Built for corporate training professionals who are tired of spending hours building a system before you can actually use it.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Corporate Training Invoice And Payment Work
